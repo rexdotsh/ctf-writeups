@@ -264,4 +264,4 @@ Below is the full showcase of the solutions for all the levels.
 
 https://github.com/rex69420/ctf-writeups/assets/65942753/f5677c77-4681-4f7d-a434-401f05d6c5e6
 
-If you've made it this far, thank you for reading the writeup! I hope you enjoyed it as much as I did attempting to solve this challenge. If you have any questions, suggestions, or improvements, feel free to contact me at `@rex.sh` on Discord.
+If you've made it this far, thank you for reading the writeup! I hope you enjoyed it as much as I did attempting to solve this challenge. If you have any questions, suggestions, or improvements, feel free to contact me at `@rex.wf` on Discord.

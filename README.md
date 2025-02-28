@@ -13,7 +13,7 @@ This repository contains writeups for various Capture The Flag (CTF) challenges 
 
 ## Usage
 
-Feel free to explore the writeups and solutions provided here. If you have any questions, suggestions, or improvements, please don't hesitate to contact me at `@rex.sh` on Discord.
+Feel free to explore the writeups and solutions provided here. If you have any questions, suggestions, or improvements, please don't hesitate to contact me at `@rex.wf` on Discord.
 
 ## Disclaimer
 
